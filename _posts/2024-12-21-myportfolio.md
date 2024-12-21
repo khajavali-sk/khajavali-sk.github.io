@@ -16,6 +16,6 @@ I’ve been working on exciting projects like:
 I aspire to solve real-world problems using technology, with a special focus on areas like data-driven decision-making and intelligent systems. Through my blog, I’ll share my learnings, insights, and updates on my projects and interests.  
 
 ## Let’s Connect  
-If you’re passionate about tech, coding, or just curious about my journey, feel free to connect with me on [GitHub](https://github.com/khajavali) or email me at [khajavali@example.com](mailto:khajavali@example.com).  
+If you’re passionate about tech, coding, or just curious about my journey, feel free to connect with me on [GitHub](https://github.com/khajavali).  
 
 Together, let’s push boundaries and innovate for a better future!  
