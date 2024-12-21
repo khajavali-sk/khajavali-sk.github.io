@@ -16,6 +16,6 @@ While I’m currently focusing on Android development, I’m always open to lear
 Through this blog, I’ll share updates on my projects, tips for aspiring developers, and lessons I’ve learned along the way.  
 
 ## Join the Journey  
-Let’s connect and explore the world of technology together! Feel free to check out my work on [GitHub](https://github.com/khajavali) or reach out via [email](mailto:khajavali@example.com).  
+Let’s connect and explore the world of technology together! Feel free to check out my work on [GitHub](https://github.com/khajavali-sk) or reach out via [email](mailto:skkhajavaliskkhajavali701@gmail.com).  
 
 Stay tuned for more updates and insights!  
